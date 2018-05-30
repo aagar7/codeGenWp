@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "code-generator-web-part-client-side-solution",
+    "id": "ed8da8d2-3b3b-48ed-a25e-ca90ca274ff0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/code-generator-web-part.sppkg"
+  }
+}

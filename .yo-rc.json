@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "code-generator-web-part",
+    "libraryId": "ed8da8d2-3b3b-48ed-a25e-ca90ca274ff0",
+    "environment": "spo"
+  }
+}
